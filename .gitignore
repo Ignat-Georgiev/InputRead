@@ -1,0 +1,4 @@
+*.vcxproj
+*.filets
+Debug\
+__vm\
