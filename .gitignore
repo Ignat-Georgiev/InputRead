@@ -1,0 +1,4 @@
+*.vcxproj
+InputRead.vcxproj
+Debug\
+__vm\
